@@ -1,2 +1,4 @@
-# Desafio_Dio_Orange
-Repositorio do desafio do bootcamp orange da dio
+# Repositório de desafio da DIO
+Repositório do desafio do bootcamp orange da dio
+
+Introdução a git e github
